@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ust/axie_all_in_one/MainActivity.java
+ com.ust.axie_all_in_one.MainActivity
+com/ust/axie_all_in_one/BuildConfig.java
+ com.ust.axie_all_in_one.BuildConfig
